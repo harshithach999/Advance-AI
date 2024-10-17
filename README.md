@@ -60,6 +60,12 @@ The model was trained with a total of 1,115,353 parameters, 1,114,387 of which w
 - Further improvements could enhance the model's performance, particularly in less confident predictions.
 - Evaluating the model on a diverse test set is crucial for confirming robustness and accuracy.
 
+### Video Demonstration
+Watch the demo of the bird detection system in action using Streamlit:
+
+![StreamLit App](StreamLit.gif)
+
+
 ## References
 1. [Kaggle Notebook](https://www.kaggle.com/code/denismachine/525-species-classification-tensorflow/notebook)
 2. [DataCamp Data Augmentation Tutorial](https://www.datacamp.com/tutorial/complete-guide-data-augmentation)
